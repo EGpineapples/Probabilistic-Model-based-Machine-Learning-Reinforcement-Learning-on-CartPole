@@ -1,6 +1,6 @@
 # Probabilistic Model-based Machine Learning: Reinforcement Learning on CartPole
 
-![CartPole Reinforcement Learning](https://developer.ridgerun.com/wiki/images/f/f5/Jetson_reinforcement_cartpole.gif)
+![CartPole Reinforcement Learning](Jetson_reinforcement_cartpole.gif)
 
 ## Abstract
 
